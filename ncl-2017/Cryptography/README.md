@@ -54,8 +54,7 @@ Decoding 3 (Easy)
 - Police found an picture during a raid and need your help in decoding it.
 - What does the message say? (50 pts)
   - `IF I AM CAUGHT, CONTINUE WITHOUT ME. FR0ZEN WILL KNOW WHAT COMES NEXT.`
-    - Wingdings decoder
-    - http://grompe.org.ru/static/wingdings_gaster.html
+  - [Wingdings decoder](http://grompe.org.ru/static/wingdings_gaster.html)
 
 
 Decoding 4 (Easy):
