@@ -51,27 +51,28 @@ Nmap done: 1 IP address (1 host up) scanned in 24.86 seconds
 ```
 
 - What is the lowest-numbered open TCP port on this machine?
-  - 21
+  - `21`
 - What is the second lowest-numbered open TCP port on this machine?
-  - 22
+  - `22`
 - What is the third lowest-numbered open TCP port on this machine?
-  - 25
+  - `25`
 - What is the fourth lowest-numbered open TCP port on this machine?
-  - 53
+  - `53`
 - What is the version of the ssh server that is running on this machine?
-  - OpenSSH 7.2p2
+  - `OpenSSH 7.2p2`
 - What port is the HTTP server running on?
-  - 1337
+  - `1337`
 - What is the name of the software running the HTTP server?
-  - nginx
+  - `nginx`
 - What is the version number of the HTTP server?
-  - 1.10.3
+  - `1.10.3`
 
 
 Hidden Treasure (Hard)
 ----------------------
 
-http://treasure.cityinthe.cloud/
+Scan this:
+[treasure.cityinthe.cloud](http://treasure.cityinthe.cloud/)
 
 robots.txt
 ```
@@ -81,18 +82,19 @@ Disallow: /mailocker
 Disallow: /yipl
 ```
 
+[DirBuster](https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project)
+
 - What is the value of flag 1?
-  - SKY-DIRN-5739
+  - `SKY-DIRN-5739`
 - What is the value of flag 2?
-  - SKY-DIRN-4751
+  - `SKY-DIRN-4751`
     - /yipl
 - What is the value of flag 3?
-  - SKY-DIRN-3981
+  - `SKY-DIRN-3981`
     - /zztop1
 - What is the value of flag 4?
-  - SKY-DIRN-4618
+  - `SKY-DIRN-4618`
     - /cocktail
-    - DirBuster - lowercase big, fast
 - What is the value of flag 5?
-  - SKY-DIRN-5746
+  - `SKY-DIRN-5746`
     - /mailocker
