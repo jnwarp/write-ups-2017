@@ -28,7 +28,7 @@ def read_file(path):
 
 if __name__ == '__main__':
     # open files for input and output
-    file_out = open('rockyou.md5', 'w')
+    #file_out = open('rockyou.md5', 'w')
     file_in = read_file_bytes('rockyou.txt')
     passwords = read_file('passwords.txt')
     content = []
@@ -42,7 +42,7 @@ if __name__ == '__main__':
         md5hash = m.hexdigest()
 
         # save the hash
-        file_out.write(md5hash)
+        #file_out.write(md5hash)
 
         # check if hash matches any passwords
         for password in passwords:
@@ -51,4 +51,4 @@ if __name__ == '__main__':
                 print(password, 'is', line)
 
     # close the output file
-    file_out.close()
+    #file_out.close()
