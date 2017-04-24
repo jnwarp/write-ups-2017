@@ -1,0 +1,113 @@
+Internet Systems Consortium DHCP Client 4.2.4
+Copyright 2004-2012 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+
+Listening on LPF/eth0/52:54:00:96:2b:3f
+Sending on   LPF/eth0/52:54:00:96:2b:3f
+Sending on   Socket/fallback
+DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 3 (xid=0x5cfc8f07)
+DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 6 (xid=0x5cfc8f07)
+DHCPREQUEST of 10.3.0.1 on eth0 to 255.255.255.255 port 67 (xid=0x5cfc8f07)
+DHCPOFFER of 10.3.0.1 from 10.3.0.254
+DHCPACK of 10.3.0.1 from 10.3.0.254
+bound to 10.3.0.1 -- renewal in 2147483648 seconds.
+Internet Systems Consortium DHCP Client 4.2.4
+Copyright 2004-2012 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+
+Listening on LPF/eth0/52:54:00:c0:c7:e9
+Sending on   LPF/eth0/52:54:00:c0:c7:e9
+Sending on   Socket/fallback
+DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 3 (xid=0x77c2d38b)
+DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 8 (xid=0x77c2d38b)
+DHCPREQUEST of 128.8.37.122 on eth0 to 255.255.255.255 port 67 (xid=0x77c2d38b)
+DHCPOFFER of 128.8.37.122 from 128.8.37.97
+DHCPACK of 128.8.37.122 from 128.8.37.97
+bound to 128.8.37.122 -- renewal in 3078 seconds.
+Internet Systems Consortium DHCP Client 4.2.4
+Copyright 2004-2012 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+
+Listening on LPF/eth0/52:54:00:a7:75:d9
+Sending on   LPF/eth0/52:54:00:a7:75:d9
+Sending on   Socket/fallback
+DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 3 (xid=0x6cd6ea4a)
+DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 6 (xid=0x6cd6ea4a)
+DHCPREQUEST of 192.168.1.132 on eth0 to 255.255.255.255 port 67 (xid=0x6cd6ea4a)
+DHCPOFFER of 192.168.1.132 from 192.168.1.1
+DHCPACK of 192.168.1.132 from 192.168.1.1
+bound to 192.168.1.132 -- renewal in 3235 seconds.
+Internet Systems Consortium DHCP Client 4.2.4
+Copyright 2004-2012 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+
+Listening on LPF/eth0/52:54:00:0e:21:72
+Sending on   LPF/eth0/52:54:00:0e:21:72
+Sending on   Socket/fallback
+DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 3 (xid=0x3119f65d)
+DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 8 (xid=0x3119f65d)
+DHCPREQUEST of 210.99.0.1 on eth0 to 255.255.255.255 port 67 (xid=0x3119f65d)
+DHCPOFFER of 210.99.0.1 from 210.99.165.255
+DHCPACK of 210.99.0.1 from 210.99.165.255
+bound to 210.99.0.1 -- renewal in 2147483648 seconds.
+Internet Systems Consortium DHCP Client 4.2.4
+Copyright 2004-2012 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+
+can't create /var/lib/dhcp/dhclient.eth0.leases: Read-only file system
+Listening on LPF/eth0/52:54:00:0e:21:72
+Sending on   LPF/eth0/52:54:00:0e:21:72
+Sending on   Socket/fallback
+DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 3 (xid=0x7aa4c303)
+DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 3 (xid=0x7aa4c303)
+DHCPREQUEST of 210.99.0.1 on eth0 to 255.255.255.255 port 67 (xid=0x7aa4c303)
+DHCPOFFER of 210.99.0.1 from 210.99.165.255
+DHCPACK of 210.99.0.1 from 210.99.165.255
+can't create /var/lib/dhcp/dhclient.eth0.leases: Read-only file system
+bound to 210.99.0.1 -- renewal in 2147483648 seconds.
+Internet Systems Consortium DHCP Client 4.2.4
+Copyright 2004-2012 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+
+Listening on LPF/eth0/52:54:00:0e:21:72
+Sending on   LPF/eth0/52:54:00:0e:21:72
+Sending on   Socket/fallback
+DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 3 (xid=0x4896f3f9)
+DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 6 (xid=0x4896f3f9)
+DHCPREQUEST of 210.99.0.1 on eth0 to 255.255.255.255 port 67 (xid=0x4896f3f9)
+DHCPOFFER of 210.99.0.1 from 210.99.165.255
+DHCPACK of 210.99.0.1 from 210.99.165.255
+bound to 210.99.0.1 -- renewal in 2147483648 seconds.
+Internet Systems Consortium DHCP Client 4.2.4
+Copyright 2004-2012 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+
+Listening on LPF/eth0/52:54:00:0e:21:72
+Sending on   LPF/eth0/52:54:00:0e:21:72
+Sending on   Socket/fallback
+DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 3 (xid=0x8da4ece)
+DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 4 (xid=0x8da4ece)
+DHCPREQUEST of 210.99.0.1 on eth0 to 255.255.255.255 port 67 (xid=0x8da4ece)
+DHCPOFFER of 210.99.0.1 from 210.99.165.255
+DHCPACK of 210.99.0.1 from 210.99.165.255
+bound to 210.99.0.1 -- renewal in 2147483648 seconds.
+Internet Systems Consortium DHCP Client 4.2.4
+Copyright 2004-2012 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+
+Listening on LPF/eth0/52:54:00:aa:89:8f
+Sending on   LPF/eth0/52:54:00:aa:89:8f
+Sending on   Socket/fallback
+DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 3 (xid=0xd68bf4)
+DHCPREQUEST of 10.0.6.48 on eth0 to 255.255.255.255 port 67 (xid=0xd68bf4)
+DHCPOFFER of 10.0.6.48 from 10.0.0.1
+DHCPACK of 10.0.6.48 from 10.0.0.1
+bound to 10.0.6.48 -- renewal in 3191 seconds.

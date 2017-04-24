@@ -1,0 +1,312 @@
+/proc/self/fd/9: 4: ulimit: error setting limit (Invalid argument)
+Watching system buttons on /dev/input/event0 (Power Button)
+New seat seat0.
+New session c1 of user admin.
+Removed session c1.
+New session c2 of user admin.
+New session 1 of user admin.
+New session 2 of user admin.
+Removed session c2.
+New session c3 of user admin.
+Removed session c3.
+New session c4 of user admin.
+Removed session c4.
+New session c5 of user admin.
+Removed session c5.
+New session c6 of user admin.
+Removed session c6.
+New session c7 of user admin.
+Removed session c7.
+New session c8 of user admin.
+Removed session 1.
+Removed session 2.
+Removed session c8.
+New session c9 of user admin.
+Removed session c9.
+New session c10 of user admin.
+Power key pressed.
+Powering Off...
+System is powering down.
+Removed session c10.
+Operation finished.
+/proc/self/fd/9: 4: ulimit: error setting limit (Invalid argument)
+New seat seat0.
+Watching system buttons on /dev/input/event0 (Power Button)
+New session c1 of user admin.
+/proc/self/fd/9: 4: ulimit: error setting limit (Invalid argument)
+/proc/self/fd/9: 4: ulimit: error setting limit (Invalid argument)
+Watching system buttons on /dev/input/event0 (Power Button)
+New seat seat0.
+New session c1 of user admin.
+New session 1 of user admin.
+Removed session 1.
+New session 2 of user admin.
+Removed session 2.
+Power key pressed.
+Powering Off...
+System is powering down.
+Removed session c1.
+Operation finished.
+/proc/self/fd/9: 4: ulimit: error setting limit (Invalid argument)
+Watching system buttons on /dev/input/event0 (Power Button)
+New seat seat0.
+New session c1 of user admin.
+New session 1 of user tim.
+Removed session 1.
+New session 2 of user tim.
+Removed session 2.
+New session 3 of user tim.
+Removed session 3.
+New session 4 of user owner.
+Removed session 4.
+New session 5 of user owner.
+Removed session 5.
+New session 6 of user beth.
+Removed session 6.
+New session 7 of user beth.
+Removed session 7.
+New session 8 of user beth.
+Removed session 8.
+New session 9 of user das.
+Removed session 9.
+New session 10 of user das.
+Removed session 10.
+New session 11 of user admin.
+Removed session 11.
+New session 12 of user admin.
+Removed session 12.
+New session c2 of user admin.
+Removed session c2.
+New session c3 of user admin.
+Removed session c3.
+Removed session c1.
+/proc/self/fd/9: 4: ulimit: error setting limit (Invalid argument)
+New seat seat0.
+Watching system buttons on /dev/input/event0 (Power Button)
+New session c1 of user admin.
+Removed session c1.
+New session 1 of user admin.
+New session 2 of user das.
+New session 3 of user beth.
+Removed session 3.
+New session 4 of user beth.
+New session 5 of user owner.
+Removed session 5.
+New session 6 of user tim.
+New session c2 of user admin.
+Removed session c2.
+Removed session 6.
+Removed session 4.
+Removed session 2.
+Removed session 1.
+/proc/self/fd/9: 4: ulimit: error setting limit (Invalid argument)
+Watching system buttons on /dev/input/event0 (Power Button)
+New seat seat0.
+New session c1 of user admin.
+New session 1 of user owner.
+Removed session 1.
+New session 2 of user tim.
+New session 3 of user beth.
+New session 4 of user das.
+New session 5 of user admin.
+Removed session 4.
+New session 6 of user das.
+Removed session 2.
+Removed session 3.
+Removed session 6.
+Removed session 5.
+New session 7 of user owner.
+Removed session 7.
+New session 8 of user owner.
+Removed session 8.
+New session 9 of user owner.
+Removed session 9.
+New session 10 of user owner.
+Removed session 10.
+New session 11 of user tim.
+New session 12 of user beth.
+New session 13 of user das.
+Removed session 13.
+New session 14 of user das.
+Removed session 14.
+New session 15 of user admin.
+Removed session 15.
+New session 16 of user das.
+Removed session 16.
+New session 17 of user das.
+Removed session 17.
+New session 18 of user das.
+Removed session 18.
+New session 19 of user admin.
+Removed session 19.
+New session 20 of user das.
+Removed session 20.
+New session 21 of user das.
+Removed session 21.
+New session 22 of user das.
+Removed session 22.
+New session 23 of user das.
+Removed session 23.
+New session 24 of user admin.
+Removed session 24.
+New session 25 of user das.
+Removed session 25.
+New session 26 of user das.
+Removed session 26.
+New session 27 of user das.
+Removed session 27.
+New session 28 of user das.
+Removed session 28.
+New session 29 of user admin.
+Removed session 29.
+New session 30 of user das.
+Removed session 30.
+New session 31 of user das.
+Removed session 31.
+New session 32 of user das.
+Removed session 32.
+New session 33 of user admin.
+Removed session 33.
+New session 34 of user das.
+Removed session 34.
+New session 35 of user das.
+Removed session 35.
+New session 36 of user das.
+Removed session 36.
+New session 37 of user das.
+Removed session 37.
+New session 38 of user admin.
+Removed session 38.
+New session 39 of user das.
+Removed session 39.
+New session 40 of user das.
+Removed session 40.
+New session 41 of user das.
+Removed session 41.
+New session 42 of user admin.
+Removed session 42.
+New session 43 of user das.
+Removed session 43.
+New session 44 of user das.
+Removed session 44.
+Removed session 12.
+New session 45 of user beth.
+Removed session 45.
+New session 46 of user beth.
+Removed session 46.
+New session 47 of user beth.
+Removed session 47.
+New session 48 of user beth.
+Removed session 48.
+New session 49 of user beth.
+Removed session 49.
+New session 50 of user beth.
+Removed session 50.
+New session 51 of user beth.
+Removed session 51.
+New session 52 of user beth.
+Removed session 52.
+New session 53 of user beth.
+Removed session 53.
+New session 54 of user beth.
+Removed session 54.
+New session 55 of user beth.
+New session 56 of user das.
+Removed session 56.
+New session 57 of user das.
+Removed session 57.
+New session 58 of user admin.
+Removed session 58.
+New session 59 of user das.
+Removed session 59.
+New session 60 of user das.
+Removed session 60.
+New session 61 of user das.
+Removed session 61.
+New session 62 of user admin.
+Removed session 62.
+New session 63 of user das.
+Removed session 63.
+New session 64 of user das.
+Removed session 64.
+New session 65 of user das.
+Removed session 65.
+New session 66 of user das.
+Removed session 66.
+New session 67 of user admin.
+Removed session 67.
+New session 68 of user das.
+Removed session 68.
+New session 69 of user das.
+Removed session 69.
+New session 70 of user das.
+Removed session 70.
+New session 71 of user das.
+Removed session 71.
+New session 72 of user admin.
+Removed session 72.
+New session 73 of user das.
+Removed session 73.
+New session 74 of user das.
+Removed session 74.
+New session 75 of user das.
+Removed session 75.
+New session 76 of user admin.
+Removed session 76.
+New session 77 of user das.
+Removed session 77.
+New session 78 of user das.
+Removed session 78.
+New session 79 of user das.
+Removed session 79.
+New session 80 of user das.
+Removed session 80.
+New session 81 of user admin.
+Removed session 81.
+New session 82 of user das.
+Removed session 82.
+New session 83 of user das.
+Removed session 83.
+New session 84 of user das.
+Removed session 84.
+New session 85 of user admin.
+Removed session 85.
+New session 86 of user das.
+Removed session 86.
+New session 87 of user das.
+Removed session 87.
+New session 88 of user das.
+Removed session 88.
+New session 89 of user das.
+Removed session 89.
+New session 90 of user admin.
+Removed session 90.
+New session 91 of user das.
+Removed session 91.
+New session 92 of user das.
+Removed session 92.
+New session 93 of user das.
+Removed session 93.
+New session 94 of user admin.
+Removed session 94.
+New session 95 of user das.
+Power key pressed.
+Powering Off...
+System is powering down.
+Removed session 95.
+Operation finished.
+Removed session c1.
+Removed session 55.
+Removed session 11.
+/proc/self/fd/9: 4: ulimit: error setting limit (Invalid argument)
+New seat seat0.
+Watching system buttons on /dev/input/event0 (Power Button)
+New session c1 of user admin.
+Removed session c1.
+New session c2 of user admin.
+Power key pressed.
+Powering Off...
+System is powering down.
+Removed session c2.
+Operation finished.
+/proc/self/fd/9: 4: ulimit: error setting limit (Invalid argument)

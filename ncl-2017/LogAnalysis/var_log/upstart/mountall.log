@@ -1,0 +1,82 @@
+fsck from util-linux 2.20.1
+fsck from util-linux 2.20.1
+/dev/mapper/node--02--vg-root: clean, 61658/441504 files, 272558/1764352 blocks/dev/sda1: clean, 298/62248 files, 44755/248832 blocks
+
+fsck from util-linux 2.20.1
+fsck from util-linux 2.20.1
+/dev/sda1: clean, 298/62248 files, 44755/248832 blocks
+/dev/mapper/node--02--vg-root: clean, 61700/441504 files, 272799/1764352 blocks
+fsck from util-linux 2.20.1
+fsck from util-linux 2.20.1
+/dev/sda1: clean, 299/62248 files, 47195/248832 blocks
+/dev/mapper/node--02--vg-root: clean, 61937/441504 files, 361164/1764352 blocks
+fsck from util-linux 2.20.1
+fsck from util-linux 2.20.1
+/dev/sda1: clean, 299/62248 files, 47195/248832 blocks
+/dev/mapper/node--02--vg-root: clean, 61942/441504 files, 361279/1764352 blocks
+fsck from util-linux 2.20.1
+fsck from util-linux 2.20.1
+/dev/mapper/node--02--vg-root: /dev/sda1: Superblock last mount time (SWed Mar  9 13:09:43 2016uperblock last mount time (,
+	now = Sat Nov 28 09:06:31 2015) is in the future.
+
+
+/dev/sda1: UNEXPECTED INCONSISTENCY; RUN fsck MANUALLY.
+	(i.e., without -a or -p options)
+Wed Mar  9 13:09:42 2016,
+	now = Sat Nov 28 09:06:31 2015) is in the future.
+
+
+/dev/mapper/node--02--vg-root: UNEXPECTED INCONSISTENCY; RUN fsck MANUALLY.
+	(i.e., without -a or -p options)
+mountall: fsck /boot [197] terminated with status 4
+mountall: Filesystem has errors: /boot
+mountall: fsck / [200] terminated with status 4
+mountall: Filesystem has errors: /
+Skipping /boot at user request
+Attempting to fix / filesystem
+fsck from util-linux 2.20.1
+e2fsck 1.42.9 (4-Feb-2014)
+Superblock last mount time (Wed Mar  9 13:09:42 2016,
+	now = Sat Nov 28 09:09:21 2015) is in the future.
+Fix? yes
+
+/dev/mapper/node--02--vg-root contains a file system with errors, check forced.
+Pass 1: Checking inodes, blocks, and sizes
+Pass 2: Checking directory structure
+Pass 3: Checking directory connectivity
+Pass 4: Checking reference counts
+Pass 5: Checking group summary information
+/dev/mapper/node--02--vg-root: 66087/441504 files (0.2% non-contiguous), 377059/1764352 blocks
+fsck from util-linux 2.20.1
+fsck from util-linux 2.20.1
+/dev/mapper/node--02--vg-root: clean, 66100/441504 files, 377148/1764352 blocks/dev/sda1: Superblock last mount time (Wed Mar  9 13:09:43 2016
+,
+	now = Sat Nov 28 13:01:29 2015) is in the future.
+
+
+/dev/sda1: UNEXPECTED INCONSISTENCY; RUN fsck MANUALLY.
+	(i.e., without -a or -p options)
+mountall: fsck /boot [195] terminated with status 4
+mountall: Filesystem has errors: /boot
+Attempting to fix /boot filesystem
+fsck from util-linux 2.20.1
+e2fsck 1.42.9 (4-Feb-2014)
+Superblock last mount time (Wed Mar  9 13:09:43 2016,
+	now = Sat Nov 28 13:02:03 2015) is in the future.
+Fix? yes
+
+/dev/sda1 contains a file system with errors, check forced.
+Pass 1: Checking inodes, blocks, and sizes
+Pass 2: Checking directory structure
+Pass 3: Checking directory connectivity
+Pass 4: Checking reference counts
+Pass 5: Checking group summary information
+/dev/sda1: 299/62248 files (16.1% non-contiguous), 47195/248832 blocks
+fsck from util-linux 2.20.1
+fsck from util-linux 2.20.1
+/dev/mapper/node--02--vg-root: clean, 66103/441504 files, 394475/1764352 blocks
+/dev/sda1: clean, 299/62248 files, 47195/248832 blocks
+fsck from util-linux 2.20.1
+fsck from util-linux 2.20.1
+/dev/mapper/node--02--vg-root: clean, 66103/441504 files, 394519/1764352 blocks
+/dev/sda1: clean, 299/62248 files, 47195/248832 blocks
